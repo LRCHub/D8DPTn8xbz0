@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "酔生夢死 -Hedonism-",
+  "base_artist": "暁Records",
+  "createdAt": "2026-02-16T08:14:40.407409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "酔生夢死",
+      "artist": "クレナズム",
+      "has_synced": true,
+      "path": "select/01_酔生夢死_クレナズム.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "酔生夢死",
+      "artist": "クレナズム",
+      "has_synced": true,
+      "path": "select/02_酔生夢死_クレナズム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "酔生夢死 -Hedonism-",
+      "artist": "暁Records",
+      "has_synced": false,
+      "path": "select/03_酔生夢死_-Hedonism-_暁Records.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "酔生夢死 -Hedonism-",
+      "artist": "Stack",
+      "has_synced": false,
+      "path": "select/04_酔生夢死_-Hedonism-_Stack.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "酔生夢死 -Hedonism-",
+      "artist": "Akatsuki Records",
+      "has_synced": false,
+      "path": "select/05_酔生夢死_-Hedonism-_Akatsuki_Records.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酔生夢死 -Hedonism-",
+      "artist": "暁Records",
+      "has_synced": false,
+      "path": "select/pl_01_酔生夢死_-Hedonism-_暁Records.txt"
+    }
+  ]
+}
